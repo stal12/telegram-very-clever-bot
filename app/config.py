@@ -1,7 +1,9 @@
-token = 'token'
+token = 'put-your-token-here'
 
-url = 'https://your-app.appspot.com/HOOK'
+url = 'https://put-your-hostname-here.appspot.com/HOOK'
 
-list = ['Hello',
-        'I\'m a good guy'
+list = [
+        'Hello',
+        'I love you',
+        'Won\'t you tell me your name?'
         ]
